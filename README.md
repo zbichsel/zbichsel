@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zack 🧔🏼‍♂️
+# 👋🏻 Hi, I'm Zack 🧔🏼‍♂️
 
 ![](https://raw.githubusercontent.com/zbichsel/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zbichsel/github-stats/master/generated/overview.svg#gh-light-mode-only)
